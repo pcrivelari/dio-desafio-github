@@ -7,5 +7,5 @@ ctrl+l - limpa a janela
 git add * - adiciona tudo
 git clone - clona a pasta
 git status - ve se esta tudo certo
-git push - empurra o arquivo
+git push origin master - empurra o arquivo para o remoto
 git commit -m "comentario" - commita os arquivos, é importante colocar um comentario

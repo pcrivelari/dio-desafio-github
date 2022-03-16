@@ -1,0 +1,11 @@
+cd - mostra a pasta que se esta
+cd .. - volta para pasta acima
+ls - lista os arquivos
+mkdir - cria um arquivo
+dir - lista o diretório
+ctrl+l - limpa a janela
+git add * - adiciona tudo
+git clone - clona a pasta
+git status - ve se esta tudo certo
+git push - empurra o arquivo
+git commit -m "comentario" - commita os arquivos, é importante colocar um comentario
